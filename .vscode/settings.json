@@ -1,0 +1,18 @@
+{
+   "C_Cpp.errorSquiggles": "Disabled",
+   "files.associations": {
+      "algorithm": "cpp",
+      "memory_resource": "cpp",
+      "functional": "cpp",
+      "iterator": "cpp",
+      "locale": "cpp",
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "__locale": "cpp",
+      "atomic": "cpp",
+      "cstdlib": "cpp",
+      "typeinfo": "cpp",
+      "complex": "cpp",
+      "new": "cpp"
+   }
+}
